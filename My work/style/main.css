@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1,h4{
+    text-align: center;
+}
+h2{
+    margin: 15px;
+}
+.main1{
+    padding: 3px;
+    margin: 5px;
+    border-radius: 10%;
+    background-color: rgb(203, 224, 107);
+    width: 700px;
+    height: 300px;
+}
+.a{
+    padding: 3px;
+    margin: 5px;
+    background-color: rgb(198, 238, 225);
+    width: 200px;
+    height: 100px;
+    border-radius: 10%;
+}
+.aa{
+    padding: 5px;
+}
+.ab{
+    border-radius: 10px;
+    border: none;
+    height: 1px;
+    background-color: red;
+}
+.ac{
+    padding: 5px;
+}
+strong::selection{
+    color: red;
+    background-color: rosybrown;
+    
+}
+
